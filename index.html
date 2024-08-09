@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Microphone Image Swap</title>
+    <style>
+        body {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            background-color: #282c34;
+            color: white;
+            margin: 0;
+            font-family: Arial, sans-serif;
+            flex-direction: column;
+        }
+
+        #permission {
+            margin-bottom: 20px;
+        }
+
+        #image {
+            width: 200px;
+            height: 200px;
+        }
+    </style>
+</head>
+<body>
+    <div id="permission">
+        <button id="request-permission">Izinkan Mikrofon</button>
+    </div>
+    <img id="image" src="image2.gif" alt="Image 1">
+
+    <script>
+        const permissionButton = document.getElementById('request-permission');
+        const imageElement = document.getElementById('image');
+        let timeout;
+
+        permissionButton.addEventListener('click', () => {
+            navigator.mediaDevices.getUserMedia({ audio: true })
+                .then(stream => {
+                    document.getElementById('permission').style.display = 'none';
+                    const audioContext = new (window.AudioContext || window.webkitAudioContext)();
+                    const analyser = audioContext.createAnalyser();
+                    const microphone = audioContext.createMediaStreamSource(stream);
+                    const scriptProcessor = audioContext.createScriptProcessor(256, 1, 1);
+
+                    analyser.smoothingTimeConstant = 0.8;
+                    analyser.fftSize = 1024;
+
+                    microphone.connect(analyser);
+                    analyser.connect(scriptProcessor);
+                    scriptProcessor.connect(audioContext.destination);
+                    
+                    scriptProcessor.onaudioprocess = () => {
+                        const array = new Uint8Array(analyser.frequencyBinCount);
+                        analyser.getByteFrequencyData(array);
+                        const volume = array.reduce((a, b) => a + b, 0) / array.length;
+
+                        if (volume > 20) { // threshold untuk deteksi suara
+                            imageElement.src = 'image1.gif'; // Mengubah gambar ke image2
+
+                            clearTimeout(timeout); // Hapus timeout sebelumnya
+                            timeout = setTimeout(() => {
+                                imageElement.src = 'image1.gif'; // Mengembalikan gambar ke image1 setelah 10 detik
+                            }, 8000); // 8000 ms = 8 detik
+                        }
+                    };
+                })
+                .catch(err => console.error('Error accessing microphone: ', err));
+        });
+    </script>
+</body>
+</html>
