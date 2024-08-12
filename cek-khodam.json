@@ -1,0 +1,726 @@
+[
+  {
+    "index": 0,
+    "Kodam": "macan kumbang"
+  },
+  {
+    "index": 1,
+    "Kodam": "naga hijau"
+  },
+  {
+    "index": 2,
+    "Kodam": "harimau putih"
+  },
+  {
+    "index": 3,
+    "Kodam": "burung garuda"
+  },
+  {
+    "index": 4,
+    "Kodam": "elang hitam"
+  },
+  {
+    "index": 5,
+    "Kodam": "ular naga"
+  },
+  {
+    "index": 6,
+    "Kodam": "buaya putih"
+  },
+  {
+    "index": 7,
+    "Kodam": "serigala merah"
+  },
+  {
+    "index": 8,
+    "Kodam": "macan putih"
+  },
+  {
+    "index": 9,
+    "Kodam": "gajah perkasa"
+  },
+  {
+    "index": 10,
+    "Kodam": "kuda sembrani"
+  },
+  {
+    "index": 11,
+    "Kodam": "kera sakti"
+  },
+  {
+    "index": 12,
+    "Kodam": "harimau biru"
+  },
+  {
+    "index": 13,
+    "Kodam": "naga api"
+  },
+  {
+    "index": 14,
+    "Kodam": "buaya hitam"
+  },
+  {
+    "index": 15,
+    "Kodam": "burung rajawali"
+  },
+  {
+    "index": 16,
+    "Kodam": "serigala putih"
+  },
+  {
+    "index": 17,
+    "Kodam": "ular kobra"
+  },
+  {
+    "index": 18,
+    "Kodam": "gajah putih"
+  },
+  {
+    "index": 19,
+    "Kodam": "macan tutul"
+  },
+  {
+    "index": 20,
+    "Kodam": "singa hitam"
+  },
+  {
+    "index": 21,
+    "Kodam": "kucing hitam"
+  },
+  {
+    "index": 22,
+    "Kodam": "beruang merah"
+  },
+  {
+    "index": 23,
+    "Kodam": "elang emas"
+  },
+  {
+    "index": 24,
+    "Kodam": "buaya emas"
+  },
+  {
+    "index": 25,
+    "Kodam": "anjing siluman"
+  },
+  {
+    "index": 26,
+    "Kodam": "kelinci hitam"
+  },
+  {
+    "index": 27,
+    "Kodam": "burung hantu"
+  },
+  {
+    "index": 28,
+    "Kodam": "serigala biru"
+  },
+  {
+    "index": 29,
+    "Kodam": "ular emas"
+  },
+  {
+    "index": 30,
+    "Kodam": "macan hijau"
+  },
+  {
+    "index": 31,
+    "Kodam": "naga perak"
+  },
+  {
+    "index": 32,
+    "Kodam": "rusa sakti"
+  },
+  {
+    "index": 33,
+    "Kodam": "kuda hitam"
+  },
+  {
+    "index": 34,
+    "Kodam": "harimau emas"
+  },
+  {
+    "index": 35,
+    "Kodam": "burung phoenix"
+  },
+  {
+    "index": 36,
+    "Kodam": "elang perak"
+  },
+  {
+    "index": 37,
+    "Kodam": "ular putih"
+  },
+  {
+    "index": 38,
+    "Kodam": "macan merah"
+  },
+  {
+    "index": 39,
+    "Kodam": "naga biru"
+  },
+  {
+    "index": 40,
+    "Kodam": "burung gagak"
+  },
+  {
+    "index": 41,
+    "Kodam": "harimau hitam"
+  },
+  {
+    "index": 42,
+    "Kodam": "serigala hijau"
+  },
+  {
+    "index": 43,
+    "Kodam": "kuda emas"
+  },
+  {
+    "index": 44,
+    "Kodam": "kucing emas"
+  },
+  {
+    "index": 45,
+    "Kodam": "gajah emas"
+  },
+  {
+    "index": 46,
+    "Kodam": "beruang putih"
+  },
+  {
+    "index": 47,
+    "Kodam": "naga hitam"
+  },
+  {
+    "index": 48,
+    "Kodam": "burung elang"
+  },
+  {
+    "index": 49,
+    "Kodam": "ular naga api"
+  },
+  {
+    "index": 50,
+    "Kodam": "buaya naga"
+  },
+  {
+    "index": 51,
+    "Kodam": "macan kumbang merah"
+  },
+  {
+    "index": 52,
+    "Kodam": "serigala emas"
+  },
+  {
+    "index": 53,
+    "Kodam": "burung rajawali hitam"
+  },
+  {
+    "index": 54,
+    "Kodam": "ular kobra emas"
+  },
+  {
+    "index": 55,
+    "Kodam": "rusa emas"
+  },
+  {
+    "index": 56,
+    "Kodam": "kuda putih"
+  },
+  {
+    "index": 57,
+    "Kodam": "burung merak"
+  },
+  {
+    "index": 58,
+    "Kodam": "singa merah"
+  },
+  {
+    "index": 59,
+    "Kodam": "kelinci putih"
+  },
+  {
+    "index": 60,
+    "Kodam": "gajah perak"
+  },
+  {
+    "index": 61,
+    "Kodam": "macan hitam"
+  },
+  {
+    "index": 62,
+    "Kodam": "naga merah"
+  },
+  {
+    "index": 63,
+    "Kodam": "burung elang hitam"
+  },
+  {
+    "index": 64,
+    "Kodam": "serigala perak"
+  },
+  {
+    "index": 65,
+    "Kodam": "ular biru"
+  },
+  {
+    "index": 66,
+    "Kodam": "macan emas"
+  },
+  {
+    "index": 67,
+    "Kodam": "naga hijau api"
+  },
+  {
+    "index": 68,
+    "Kodam": "burung garuda emas"
+  },
+  {
+    "index": 69,
+    "Kodam": "kuda merah"
+  },
+  {
+    "index": 70,
+    "Kodam": "harimau perak"
+  },
+  {
+    "index": 71,
+    "Kodam": "singa putih"
+  },
+  {
+    "index": 72,
+    "Kodam": "burung rajawali emas"
+  },
+  {
+    "index": 73,
+    "Kodam": "serigala merah api"
+  },
+  {
+    "index": 74,
+    "Kodam": "naga perak api"
+  },
+  {
+    "index": 75,
+    "Kodam": "macan putih biru"
+  },
+  {
+    "index": 76,
+    "Kodam": "ular hitam"
+  },
+  {
+    "index": 77,
+    "Kodam": "gajah hijau"
+  },
+  {
+    "index": 78,
+    "Kodam": "harimau hijau"
+  },
+  {
+    "index": 79,
+    "Kodam": "burung merak biru"
+  },
+  {
+    "index": 80,
+    "Kodam": "kuda hijau"
+  },
+  {
+    "index": 81,
+    "Kodam": "kelinci merah"
+  },
+  {
+    "index": 82,
+    "Kodam": "macan merah putih"
+  },
+  {
+    "index": 83,
+    "Kodam": "serigala hijau emas"
+  },
+  {
+    "index": 84,
+    "Kodam": "naga hitam putih"
+  },
+  {
+    "index": 85,
+    "Kodam": "burung elang emas"
+  },
+  {
+    "index": 86,
+    "Kodam": "singa emas"
+  },
+  {
+    "index": 87,
+    "Kodam": "buaya merah"
+  },
+  {
+    "index": 88,
+    "Kodam": "burung gagak merah"
+  },
+  {
+    "index": 89,
+    "Kodam": "kucing merah"
+  },
+  {
+    "index": 90,
+    "Kodam": "harimau hijau biru"
+  },
+  {
+    "index": 91,
+    "Kodam": "serigala biru putih"
+  },
+  {
+    "index": 92,
+    "Kodam": "naga perak biru"
+  },
+  {
+    "index": 93,
+    "Kodam": "macan hitam merah"
+  },
+  {
+    "index": 94,
+    "Kodam": "burung rajawali putih"
+  },
+  {
+    "index": 95,
+    "Kodam": "kelinci hijau"
+  },
+  {
+    "index": 96,
+    "Kodam": "gajah biru"
+  },
+  {
+    "index": 97,
+    "Kodam": "ular naga merah"
+  },
+  {
+    "index": 98,
+    "Kodam": "burung phoenix merah"
+  },
+  {
+    "index": 99,
+    "Kodam": "macan kumbang hitam"
+  },
+  {
+    "index": 100,
+    "Kodam": "serigala putih emas"
+  },
+  {
+    "index": 101,
+    "Kodam": "naga emas putih"
+  },
+  {
+    "index": 102,
+    "Kodam": "burung garuda perak"
+  },
+  {
+    "index": 103,
+    "Kodam": "harimau merah emas"
+  },
+  {
+    "index": 104,
+    "Kodam": "kuda putih hitam"
+  },
+  {
+    "index": 105,
+    "Kodam": "buaya biru"
+  },
+  {
+    "index": 106,
+    "Kodam": "burung merak hijau"
+  },
+  {
+    "index": 107,
+    "Kodam": "kelinci biru"
+  },
+  {
+    "index": 108,
+    "Kodam": "singa hitam emas"
+  },
+  {
+    "index": 109,
+    "Kodam": "naga biru perak"
+  },
+  {
+    "index": 110,
+    "Kodam": "burung elang hijau"
+  },
+  {
+    "index": 111,
+    "Kodam": "gajah merah"
+  },
+  {
+    "index": 112,
+    "Kodam": "macan putih hitam"
+  },
+  {
+    "index": 113,
+    "Kodam": "serigala perak biru"
+  },
+  {
+    "index": 114,
+    "Kodam": "naga api emas"
+  },
+  {
+    "index": 115,
+    "Kodam": "burung gagak putih"
+  },
+  {
+    "index": 116,
+    "Kodam": "kelinci emas"
+  },
+  {
+    "index": 117,
+    "Kodam": "harimau perak biru"
+  },
+  {
+    "index": 118,
+    "Kodam": "macan merah emas"
+  },
+  {
+    "index": 119,
+    "Kodam": "singa biru putih"
+  },
+  {
+    "index": 120,
+    "Kodam": "ular naga perak"
+  },
+  {
+    "index": 121,
+    "Kodam": "burung phoenix putih"
+  },
+  {
+    "index": 122,
+    "Kodam": "gajah putih emas"
+  },
+  {
+    "index": 123,
+    "Kodam": "serigala merah putih"
+  },
+  {
+    "index": 124,
+    "Kodam": "naga hijau biru"
+  },
+  {
+    "index": 125,
+    "Kodam": "macan emas putih"
+  },
+  {
+    "index": 126,
+    "Kodam": "burung rajawali hijau"
+  },
+  {
+    "index": 127,
+    "Kodam": "kuda merah emas"
+  },
+  {
+    "index": 128,
+    "Kodam": "kelinci putih biru"
+  },
+  {
+    "index": 129,
+    "Kodam": "harimau hitam emas"
+  },
+  {
+    "index": 130,
+    "Kodam": "serigala emas putih"
+  },
+  {
+    "index": 131,
+    "Kodam": "naga merah biru"
+  },
+  {
+    "index": 132,
+    "Kodam": "burung garuda hijau"
+  },
+  {
+    "index": 133,
+    "Kodam": "gajah biru putih"
+  },
+  {
+    "index": 134,
+    "Kodam": "macan hitam perak"
+  },
+  {
+    "index": 135,
+    "Kodam": "singa perak emas"
+  },
+  {
+    "index": 136,
+    "Kodam": "burung merak perak"
+  },
+  {
+    "index": 137,
+    "Kodam": "kelinci hijau emas"
+  },
+  {
+    "index": 138,
+    "Kodam": "naga emas biru"
+  },
+  {
+    "index": 139,
+    "Kodam": "serigala putih biru"
+  },
+  {
+    "index": 140,
+    "Kodam": "burung elang biru"
+  },
+  {
+    "index": 141,
+    "Kodam": "gajah merah putih"
+  },
+  {
+    "index": 142,
+    "Kodam": "macan merah biru"
+  },
+  {
+    "index": 143,
+    "Kodam": "harimau putih hijau"
+  },
+  {
+    "index": 144,
+    "Kodam": "naga perak hijau"
+  },
+  {
+    "index": 145,
+    "Kodam": "burung gagak hijau"
+  },
+  {
+    "index": 146,
+    "Kodam": "serigala hitam putih"
+  },
+  {
+    "index": 147,
+    "Kodam": "kelinci merah putih"
+  },
+  {
+    "index": 148,
+    "Kodam": "gajah hitam perak"
+  },
+  {
+    "index": 149,
+    "Kodam": "burung rajawali biru"
+  },
+  {
+    "index": 150,
+    "Kodam": "macan emas biru"
+  },
+  {
+    "index": 151,
+    "Kodam": "singa hijau emas"
+  },
+  {
+    "index": 152,
+    "Kodam": "naga hitam biru"
+  },
+  {
+    "index": 153,
+    "Kodam": "burung phoenix hijau"
+  },
+  {
+    "index": 154,
+    "Kodam": "kelinci biru putih"
+  },
+  {
+    "index": 155,
+    "Kodam": "harimau merah hitam"
+  },
+  {
+    "index": 156,
+    "Kodam": "serigala emas hijau"
+  },
+  {
+    "index": 157,
+    "Kodam": "naga hijau emas"
+  },
+  {
+    "index": 158,
+    "Kodam": "burung garuda merah"
+  },
+  {
+    "index": 159,
+    "Kodam": "gajah emas biru"
+  },
+  {
+    "index": 160,
+    "Kodam": "macan putih hijau"
+  },
+  {
+    "index": 161,
+    "Kodam": "singa biru emas"
+  },
+  {
+    "index": 162,
+    "Kodam": "burung merak hitam"
+  },
+  {
+    "index": 163,
+    "Kodam": "kelinci hijau biru"
+  },
+  {
+    "index": 164,
+    "Kodam": "naga emas hijau"
+  },
+  {
+    "index": 165,
+    "Kodam": "serigala perak hitam"
+  },
+  {
+    "index": 166,
+    "Kodam": "burung elang merah"
+  },
+  {
+    "index": 167,
+    "Kodam": "gajah merah hijau"
+  },
+  {
+    "index": 168,
+    "Kodam": "macan hitam hijau"
+  },
+  {
+    "index": 169,
+    "Kodam": "harimau hijau perak"
+  },
+  {
+    "index": 170,
+    "Kodam": "naga perak merah"
+  },
+  {
+    "index": 171,
+    "Kodam": "burung gagak biru"
+  },
+  {
+    "index": 172,
+    "Kodam": "kelinci hitam putih"
+  },
+  {
+    "index": 173,
+    "Kodam": "gajah putih hijau"
+  },
+  {
+    "index": 174,
+    "Kodam": "macan merah hijau"
+  },
+  {
+    "index": 175,
+    "Kodam": "singa hijau perak"
+  },
+  {
+    "index": 176,
+    "Kodam": "burung rajawali perak"
+  },
+  {
+    "index": 177,
+    "Kodam": "serigala biru hijau"
+  },
+  {
+    "index": 178,
+    "Kodam": "naga hijau merah"
+  },
+  {
+    "index": 179,
+    "Kodam": "burung merak merah"
+  },
+  {
+    "index": 180,
+    "Kodam": "kadal burik"
+    }
+    ]
